@@ -1,0 +1,1445 @@
+{
+	"id": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+	"name": "conteo_app",
+	"description": "",
+	"auth": null,
+	"events": null,
+	"variables": [],
+	"order": [],
+	"folders_order": [
+		"b5ce2d2e-8713-40dc-a82a-73124265906e",
+		"9f020806-3620-498e-a7a5-978c3b78810a",
+		"81e731ad-8285-4390-943c-dc652703368e",
+		"79b872f7-94ac-4e84-b07c-219d28c2f586",
+		"f374b610-eaa8-4cf4-b41f-719d1f152854",
+		"48e70242-6a65-44f0-b1cc-14ba40de0304",
+		"c9ef1eb7-79d5-4be7-810b-a00d51801306"
+	],
+	"folders": [
+		{
+			"id": "9f020806-3620-498e-a7a5-978c3b78810a",
+			"name": "auth",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"674e0be9-44e9-43f8-a705-f3f9f02a503c",
+				"4c931a25-7292-4589-b637-5336c07db0ea"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"name": "count",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"1e2883ab-d81e-4659-a062-10cff62903ef",
+				"7d45193e-8738-42f2-be8b-b4a11bb55fda",
+				"43a7633e-a059-4b9c-bcb8-7bf936f573b2",
+				"bc4b2f41-9a6b-45b7-80be-c94845f7bbfb",
+				"3e4dde90-040e-4286-8c4f-70f6ea490325"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "81e731ad-8285-4390-943c-dc652703368e",
+			"name": "employee",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"c464bcae-1370-46da-8dc8-420e6dd54be8",
+				"03b6994c-6a5b-4612-b49b-4d6b5591bfb3",
+				"e5744b67-6604-493a-98e3-38f4befad058",
+				"a6f5f448-21c1-4c22-a956-90c69a0b1b24",
+				"f952caf2-aa18-4b20-b9c4-a01e4af398ea"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"name": "farm",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"9611c146-155c-4a4a-8f29-200c936113f0",
+				"16382ca1-4fa0-4621-af96-1deb13f4ae6e",
+				"f08393fc-0621-4692-a7cd-780dbe5198f8",
+				"eaead2ab-62ef-4c8b-99e0-35a7674f57e6",
+				"3fedebd5-fdbb-47f2-9156-b3477622a60b"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"name": "quarter",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"64041d76-bd0c-40b2-b763-de04afef0b95",
+				"c0c472c8-9460-410c-a6ae-ae3678e6ca00",
+				"c362f434-7cee-4c0f-b31b-1f6804faeeae",
+				"c47b8898-0688-4ef5-8f4f-f8a887155ae6",
+				"8530e8da-5de7-4686-9e9b-8fb22b3d912d"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"name": "season",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"5776cc85-d2ef-4a44-a515-5d64fe3e036e",
+				"71b10a51-0bef-4188-b1a3-d0b0fcf329d0",
+				"683eb5fd-b2d2-489a-9419-680043b34599",
+				"5d88579a-3f72-4b9a-bf39-f0ff6697d84a",
+				"183a3af4-2bc7-4d41-b234-ba119a8d1bcb"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"name": "user",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "9992dc4b-48c3-4e55-95dc-4ee88e58dc02",
+			"folder": null,
+			"order": [
+				"808207a3-edc4-4469-93a2-ccd8b316f4db",
+				"a01c0667-2963-45c5-870f-c1360bbec4e7",
+				"08110912-86c4-4052-a6fd-adec6b3db8a8",
+				"c65486f2-1e2a-47f8-8c69-0f86ae43459a",
+				"dc4c1eb6-3a9c-4acc-a936-e886c4fc51fd"
+			],
+			"folders_order": []
+		}
+	],
+	"requests": [
+		{
+			"id": "03b6994c-6a5b-4612-b49b-4d6b5591bfb3",
+			"name": "registrar empleado",
+			"url": "http://127.0.0.1:8000/api/employee/store",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "paola",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "fermin",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "paola@example.org",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "direction",
+					"value": "Venezuela",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rut",
+					"value": "rut",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "81e731ad-8285-4390-943c-dc652703368e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "08110912-86c4-4052-a6fd-adec6b3db8a8",
+			"name": "listar usuarios",
+			"url": "http://127.0.0.1:8000/api/user/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI2NDM2MywiZXhwIjoxNTczMjY3OTYzLCJuYmYiOjE1NzMyNjQzNjMsImp0aSI6ImlnZnRpaWIwZEIyeFB1ZlIiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.nuBVUbpZ8Cf8MUv1Jy6q-E7z_LacM6AEKvA9YQ5xQyw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI2NDM2MywiZXhwIjoxNTczMjY3OTYzLCJuYmYiOjE1NzMyNjQzNjMsImp0aSI6ImlnZnRpaWIwZEIyeFB1ZlIiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.nuBVUbpZ8Cf8MUv1Jy6q-E7z_LacM6AEKvA9YQ5xQyw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "16382ca1-4fa0-4621-af96-1deb13f4ae6e",
+			"name": "listar farms",
+			"url": "http://127.0.0.1:8000/api/farm/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "183a3af4-2bc7-4d41-b234-ba119a8d1bcb",
+			"name": "eliminar season",
+			"url": "http://127.0.0.1:8000/api/season/delete/1",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "1e2883ab-d81e-4659-a062-10cff62903ef",
+			"name": "registrar count",
+			"url": "http://127.0.0.1:8000/api/count/store",
+			"description": "",
+			"data": [
+				{
+					"key": "id_farm",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_employee",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "working_day",
+					"value": "working_day",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "countscol",
+					"value": "countscol",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "2019-11-09 01:29:04",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_quarter",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "row",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "plant",
+					"value": "plant",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cant",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "obj",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "diff",
+					"value": "diff",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_user",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_season",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3e4dde90-040e-4286-8c4f-70f6ea490325",
+			"name": "eliminar count",
+			"url": "http://127.0.0.1:8000/api/count/delete/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3fedebd5-fdbb-47f2-9156-b3477622a60b",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/farm/1",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "43a7633e-a059-4b9c-bcb8-7bf936f573b2",
+			"name": "actualizar count",
+			"url": "http://127.0.0.1:8000/api/count/update/2",
+			"description": "",
+			"data": [
+				{
+					"key": "id_farm",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_employee",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "working_day",
+					"value": "working_day updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "countscol",
+					"value": "countscol updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "date",
+					"value": "2019-11-09 01:29:04",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_quarter",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "row",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "plant",
+					"value": "plant updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "cant",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "obj",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "diff",
+					"value": "diff updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_user",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "id_season",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4c931a25-7292-4589-b637-5336c07db0ea",
+			"name": "login",
+			"url": "http://127.0.0.1:8000/api/login",
+			"description": "",
+			"data": [
+				{
+					"key": "email",
+					"value": "reinaldoagf1@conteo.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "9f020806-3620-498e-a7a5-978c3b78810a",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "5776cc85-d2ef-4a44-a515-5d64fe3e036e",
+			"name": "registro de season",
+			"url": "http://127.0.0.1:8000/api/season/store",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "season2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "season2 description",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "year",
+					"value": "season2 year",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "5d88579a-3f72-4b9a-bf39-f0ff6697d84a",
+			"name": "actualizar season",
+			"url": "http://127.0.0.1:8000/api/season/update/1",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "season1 update",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "season1 update description",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "year",
+					"value": "season1 update year",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "64041d76-bd0c-40b2-b763-de04afef0b95",
+			"name": "listar quarter",
+			"url": "http://127.0.0.1:8000/api/quarter/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "674e0be9-44e9-43f8-a705-f3f9f02a503c",
+			"name": "registro de usuario",
+			"url": "http://127.0.0.1:8000/api/register",
+			"description": "para crear un nuevo cliente",
+			"data": [
+				{
+					"key": "name",
+					"value": "maiva",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "fermin",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "maiva@conteo.com",
+					"type": "text"
+				},
+				{
+					"key": "password",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password_confirmation",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rut",
+					"value": "rut",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rol",
+					"value": "rol",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json"
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "9f020806-3620-498e-a7a5-978c3b78810a",
+			"headers": "Accept: application/json\nContent-Type: application/x-www-form-urlencoded\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "683eb5fd-b2d2-489a-9419-680043b34599",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/season/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "71b10a51-0bef-4188-b1a3-d0b0fcf329d0",
+			"name": "listar season",
+			"url": "http://127.0.0.1:8000/api/season/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "c9ef1eb7-79d5-4be7-810b-a00d51801306",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9yZWdpc3RlciIsImlhdCI6MTU3MzYyMjU5OCwiZXhwIjoxNTczNjI2MTk4LCJuYmYiOjE1NzM2MjI1OTgsImp0aSI6InUxd3lrZlQzRU9kMkJ0SlUiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.4Ymuz4tyE3Zt2WIPfm7uI8xdmRsm3OMdSmpfiQK6qKg\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7d45193e-8738-42f2-be8b-b4a11bb55fda",
+			"name": "listar count",
+			"url": "http://127.0.0.1:8000/api/count/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "808207a3-edc4-4469-93a2-ccd8b316f4db",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/user/2",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "oriana",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8530e8da-5de7-4686-9e9b-8fb22b3d912d",
+			"name": "actualizar quarter",
+			"url": "http://127.0.0.1:8000/api/quarter/update/1",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "quarter1 updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "description updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "9611c146-155c-4a4a-8f29-200c936113f0",
+			"name": "registrar farm",
+			"url": "http://127.0.0.1:8000/api/farm/store",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "farm2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "farm2 description",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "farm2 address",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a01c0667-2963-45c5-870f-c1360bbec4e7",
+			"name": "actualizar por id",
+			"url": "http://127.0.0.1:8000/api/user/update/1",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "reinaldo alonso",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "gonzalez fermin",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "reinaldoagf1@conteo.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password_confirmation",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rut",
+					"value": "rut",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rol",
+					"value": "rol",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI1NDQ1MSwiZXhwIjoxNTczMjU4MDUxLCJuYmYiOjE1NzMyNTQ0NTEsImp0aSI6ImVDODBERFd2dEFMaDZvOUoiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.p8lwb_DXp1-Wg4ASHevHTJT3KGWvPShql0_1LtsmOOQ",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": false
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI1NDQ1MSwiZXhwIjoxNTczMjU4MDUxLCJuYmYiOjE1NzMyNTQ0NTEsImp0aSI6ImVDODBERFd2dEFMaDZvOUoiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.p8lwb_DXp1-Wg4ASHevHTJT3KGWvPShql0_1LtsmOOQ\n//Content-Type: application/x-www-form-urlencoded\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a6f5f448-21c1-4c22-a956-90c69a0b1b24",
+			"name": "eliminar empleado",
+			"url": "http://127.0.0.1:8000/api/employee/delete/1",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "81e731ad-8285-4390-943c-dc652703368e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "bc4b2f41-9a6b-45b7-80be-c94845f7bbfb",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/count/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "48e70242-6a65-44f0-b1cc-14ba40de0304",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c0c472c8-9460-410c-a6ae-ae3678e6ca00",
+			"name": "registrar quarter",
+			"url": "http://127.0.0.1:8000/api/quarter/store",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "quarter2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "quarter2 description",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c362f434-7cee-4c0f-b31b-1f6804faeeae",
+			"name": "eliminar quarter",
+			"url": "http://127.0.0.1:8000/api/quarter/delete/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c464bcae-1370-46da-8dc8-420e6dd54be8",
+			"name": "listar empleados",
+			"url": "http://127.0.0.1:8000/api/employee/all",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "81e731ad-8285-4390-943c-dc652703368e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1NjIwNCwiZXhwIjoxNTczNDU5ODA0LCJuYmYiOjE1NzM0NTYyMDQsImp0aSI6ImR2d0JsWVFTWE1iMmp6UEwiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.LC-Sn5jmHGE_ESt4Q4C_Oz5nPJJOw_kLfbg1SQuwwCw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c47b8898-0688-4ef5-8f4f-f8a887155ae6",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/quarter/1",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "f374b610-eaa8-4cf4-b41f-719d1f152854",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "c65486f2-1e2a-47f8-8c69-0f86ae43459a",
+			"name": "eliminar usuario",
+			"url": "http://127.0.0.1:8000/api/user/delete/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI2NDM2MywiZXhwIjoxNTczMjY3OTYzLCJuYmYiOjE1NzMyNjQzNjMsImp0aSI6ImlnZnRpaWIwZEIyeFB1ZlIiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.nuBVUbpZ8Cf8MUv1Jy6q-E7z_LacM6AEKvA9YQ5xQyw",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzI2NDM2MywiZXhwIjoxNTczMjY3OTYzLCJuYmYiOjE1NzMyNjQzNjMsImp0aSI6ImlnZnRpaWIwZEIyeFB1ZlIiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.nuBVUbpZ8Cf8MUv1Jy6q-E7z_LacM6AEKvA9YQ5xQyw\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "dc4c1eb6-3a9c-4acc-a936-e886c4fc51fd",
+			"name": "registro de usuario (sin autenticación)",
+			"url": "http://127.0.0.1:8000/api/user/store",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "laura",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "arias",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "laura@conteo.com",
+					"type": "text"
+				},
+				{
+					"key": "password",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password_confirmation",
+					"value": "conteo1234",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rut",
+					"value": "rut",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rol",
+					"value": "rol",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b5ce2d2e-8713-40dc-a82a-73124265906e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzYyMDY2MCwiZXhwIjoxNTczNjI0MjYwLCJuYmYiOjE1NzM2MjA2NjAsImp0aSI6IngxV09mQWlDajdMM0lyaWciLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.Y1xBIjjGSiT-jzSMUUhpPq8H6AAn1oyS7d9hmwj-ch8\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e5744b67-6604-493a-98e3-38f4befad058",
+			"name": "actualizar empleado",
+			"url": "http://127.0.0.1:8000/api/employee/update/1",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "oriana",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "last_name",
+					"value": "gonzalez fermin",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "oriana@conteo.com",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "direction",
+					"value": "guayana",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "rut",
+					"value": "rut updated",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "81e731ad-8285-4390-943c-dc652703368e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzMzMTAxOSwiZXhwIjoxNTczMzM0NjE5LCJuYmYiOjE1NzMzMzEwMTksImp0aSI6IkdtN29iYVZqSEljVWtFNDEiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.yExKKZJ12wKKNKpd8wqhK6BMk3WGsLbxuco99qyPlwk\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "eaead2ab-62ef-4c8b-99e0-35a7674f57e6",
+			"name": "actualizar farm",
+			"url": "http://127.0.0.1:8000/api/farm/update/1",
+			"description": "",
+			"data": [
+				{
+					"key": "name",
+					"value": "farm1 update",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "description",
+					"value": "description farm1 update",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "address",
+					"value": "address farm1 update",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f08393fc-0621-4692-a7cd-780dbe5198f8",
+			"name": "eliminar farm",
+			"url": "http://127.0.0.1:8000/api/farm/delete/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "79b872f7-94ac-4e84-b07c-219d28c2f586",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f952caf2-aa18-4b20-b9c4-a01e4af398ea",
+			"name": "obtener por id",
+			"url": "http://127.0.0.1:8000/api/employee/2",
+			"description": "",
+			"data": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "81e731ad-8285-4390-943c-dc652703368e",
+			"headers": "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9sb2dpbiIsImlhdCI6MTU3MzQ1MjQ4OCwiZXhwIjoxNTczNDU2MDg4LCJuYmYiOjE1NzM0NTI0ODgsImp0aSI6IkI2VlVockVqUjhZb0ZpR0wiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.fC4xNnR66AJ1q4OSvWe1af6dikJihHUBh7oqLucxQ6o\n",
+			"pathVariables": {}
+		}
+	]
+}
